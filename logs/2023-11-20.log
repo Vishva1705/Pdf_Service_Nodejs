@@ -1,0 +1,32 @@
+[2023-11-20 17:13:29] info: Uploaded Chennai.pdf to HinduTamilThisai in Azure Blob Storage.
+[2023-11-20 17:13:31] info: Uploaded Coimbatore.pdf to HinduTamilThisai in Azure Blob Storage.
+[2023-11-20 17:13:32] info: Uploaded Dharmapuri.pdf to HinduTamilThisai in Azure Blob Storage.
+[2023-11-20 17:13:34] info: Uploaded Kancheepuram.pdf to HinduTamilThisai in Azure Blob Storage.
+[2023-11-20 17:13:35] info: Uploaded Madurai.pdf to HinduTamilThisai in Azure Blob Storage.
+[2023-11-20 17:13:37] info: Uploaded Puducherry.pdf to HinduTamilThisai in Azure Blob Storage.
+[2023-11-20 17:13:39] info: Uploaded Ramnad.pdf to HinduTamilThisai in Azure Blob Storage.
+[2023-11-20 17:13:41] info: Uploaded Salem.pdf to HinduTamilThisai in Azure Blob Storage.
+[2023-11-20 17:13:42] info: Uploaded Tanjavur.pdf to HinduTamilThisai in Azure Blob Storage.
+[2023-11-20 17:13:44] info: Uploaded Thiruvananthapuram.pdf to HinduTamilThisai in Azure Blob Storage.
+[2023-11-20 17:13:45] info: Uploaded Tiruchirapalli.pdf to HinduTamilThisai in Azure Blob Storage.
+[2023-11-20 17:13:47] info: Uploaded Tirunelveli.pdf to HinduTamilThisai in Azure Blob Storage.
+[2023-11-20 17:13:49] info: Uploaded Tirupur.pdf to HinduTamilThisai in Azure Blob Storage.
+[2023-11-20 17:13:51] info: Uploaded Vellore.pdf to HinduTamilThisai in Azure Blob Storage.
+[2023-11-20 17:13:51] info: Output directory does not exist: D:\website_dev\Hindu_epaper\server\Hindu_Tamil\20-11-2023\Supplementary
+[2023-11-20 17:13:51] info: Output directory does not exist: D:\website_dev\Hindu_epaper\server\Hindu_Tamil\20-11-2023\Supplementary_1
+[2023-11-20 17:13:51] info: Output directory does not exist: D:\website_dev\Hindu_epaper\server\Hindu_Tamil\20-11-2023\HinduTamilThisai_1
+[2023-11-20 17:13:51] info: All PDFs uploaded to Azure Blob Storage.
+[2023-11-20 17:13:51] info: Uploaded File URL: https://stgtamilthisaicdn.blob.core.windows.net/httepaper/MultipleViewPdf/20-11-2023/HinduTamilThisai/Chennai.pdf
+[2023-11-20 17:13:51] info: Uploaded File URL: https://stgtamilthisaicdn.blob.core.windows.net/httepaper/MultipleViewPdf/20-11-2023/HinduTamilThisai/Coimbatore.pdf
+[2023-11-20 17:13:51] info: Uploaded File URL: https://stgtamilthisaicdn.blob.core.windows.net/httepaper/MultipleViewPdf/20-11-2023/HinduTamilThisai/Dharmapuri.pdf
+[2023-11-20 17:13:51] info: Uploaded File URL: https://stgtamilthisaicdn.blob.core.windows.net/httepaper/MultipleViewPdf/20-11-2023/HinduTamilThisai/Kancheepuram.pdf
+[2023-11-20 17:13:51] info: Uploaded File URL: https://stgtamilthisaicdn.blob.core.windows.net/httepaper/MultipleViewPdf/20-11-2023/HinduTamilThisai/Madurai.pdf
+[2023-11-20 17:13:51] info: Uploaded File URL: https://stgtamilthisaicdn.blob.core.windows.net/httepaper/MultipleViewPdf/20-11-2023/HinduTamilThisai/Puducherry.pdf
+[2023-11-20 17:13:51] info: Uploaded File URL: https://stgtamilthisaicdn.blob.core.windows.net/httepaper/MultipleViewPdf/20-11-2023/HinduTamilThisai/Ramnad.pdf
+[2023-11-20 17:13:51] info: Uploaded File URL: https://stgtamilthisaicdn.blob.core.windows.net/httepaper/MultipleViewPdf/20-11-2023/HinduTamilThisai/Salem.pdf
+[2023-11-20 17:13:51] info: Uploaded File URL: https://stgtamilthisaicdn.blob.core.windows.net/httepaper/MultipleViewPdf/20-11-2023/HinduTamilThisai/Tanjavur.pdf
+[2023-11-20 17:13:51] info: Uploaded File URL: https://stgtamilthisaicdn.blob.core.windows.net/httepaper/MultipleViewPdf/20-11-2023/HinduTamilThisai/Thiruvananthapuram.pdf
+[2023-11-20 17:13:51] info: Uploaded File URL: https://stgtamilthisaicdn.blob.core.windows.net/httepaper/MultipleViewPdf/20-11-2023/HinduTamilThisai/Tiruchirapalli.pdf
+[2023-11-20 17:13:51] info: Uploaded File URL: https://stgtamilthisaicdn.blob.core.windows.net/httepaper/MultipleViewPdf/20-11-2023/HinduTamilThisai/Tirunelveli.pdf
+[2023-11-20 17:13:51] info: Uploaded File URL: https://stgtamilthisaicdn.blob.core.windows.net/httepaper/MultipleViewPdf/20-11-2023/HinduTamilThisai/Tirupur.pdf
+[2023-11-20 17:13:51] info: Uploaded File URL: https://stgtamilthisaicdn.blob.core.windows.net/httepaper/MultipleViewPdf/20-11-2023/HinduTamilThisai/Vellore.pdf

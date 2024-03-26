@@ -1,0 +1,14 @@
+[2023-11-08 10:35:00] info: Directory already exists: D:\website_dev\Hindu_epaper\server\Hindu_Tamil\07-11-2023\HinduTamilThisai
+[2023-11-08 10:35:00] info: PDF is less than 97MB, compressing using Adobe: Coimbatore.pdf
+[2023-11-08 10:36:12] error: Exception encountered while compressing D:\Exact_files\2023\November\07-11-2023\TAMILTH\Combined/Coimbatore.pdf: The destination file exists: D:\website_dev\Hindu_epaper\server\Hindu_Tamil\07-11-2023\HinduTamilThisai\Coimbatore.pdf
+[2023-11-08 10:36:12] info: All files in D:\Exact_files\2023\November\07-11-2023\TAMILTH\Combined compressed and saved successfully to D:\website_dev\Hindu_epaper\server\Hindu_Tamil\07-11-2023\HinduTamilThisai
+[2023-11-08 10:36:12] info: Input directory does not exist: D:\Exact_files\2023\November\07-11-2023\TAMTHAF_Combined
+[2023-11-08 10:36:12] info: Input directory does not exist: D:\Exact_files\2023\November\07-11-2023\TAMTHEF_Combined
+[2023-11-08 10:36:12] info: Input directory does not exist: D:\Exact_files\2023\November\07-11-2023\TAMTHEdition_combined
+[2023-11-08 10:36:12] info: All folders processed successfully.
+[2023-11-08 10:36:16] info: Uploaded Coimbatore.pdf to HinduTamilThisai in Azure Blob Storage.
+[2023-11-08 10:36:16] info: Output directory does not exist: D:\website_dev\Hindu_epaper\server\Hindu_Tamil\07-11-2023\Supplementary
+[2023-11-08 10:36:16] info: Output directory does not exist: D:\website_dev\Hindu_epaper\server\Hindu_Tamil\07-11-2023\SupplementaryOne
+[2023-11-08 10:36:16] info: Output directory does not exist: D:\website_dev\Hindu_epaper\server\Hindu_Tamil\07-11-2023\NewEdition
+[2023-11-08 10:36:16] info: All PDFs uploaded to Azure Blob Storage.
+[2023-11-08 10:36:16] info: Uploaded File URL: https://stgvetrikkodi.blob.core.windows.net/vetrikkodi/HindutamilTesting/07-11-2023/HinduTamilThisai/Coimbatore.pdf

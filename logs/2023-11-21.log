@@ -1,0 +1,30 @@
+[2023-11-21 12:19:44] info: Uploaded Chennai.pdf to HinduTamilThisai in Azure Blob Storage.
+[2023-11-21 12:19:46] info: Uploaded Dharmapuri.pdf to HinduTamilThisai in Azure Blob Storage.
+[2023-11-21 12:19:47] info: Uploaded Kancheepuram.pdf to HinduTamilThisai in Azure Blob Storage.
+[2023-11-21 12:19:49] info: Uploaded Madurai.pdf to HinduTamilThisai in Azure Blob Storage.
+[2023-11-21 12:19:51] info: Uploaded Puducherry.pdf to HinduTamilThisai in Azure Blob Storage.
+[2023-11-21 12:19:53] info: Uploaded Ramnad.pdf to HinduTamilThisai in Azure Blob Storage.
+[2023-11-21 12:19:58] info: Uploaded Salem.pdf to HinduTamilThisai in Azure Blob Storage.
+[2023-11-21 12:20:00] info: Uploaded Tanjavur.pdf to HinduTamilThisai in Azure Blob Storage.
+[2023-11-21 12:20:03] info: Uploaded Thiruvananthapuram.pdf to HinduTamilThisai in Azure Blob Storage.
+[2023-11-21 12:20:06] info: Uploaded Tiruchirapalli.pdf to HinduTamilThisai in Azure Blob Storage.
+[2023-11-21 12:20:10] info: Uploaded Tirunelveli.pdf to HinduTamilThisai in Azure Blob Storage.
+[2023-11-21 12:20:12] info: Uploaded Tirupur.pdf to HinduTamilThisai in Azure Blob Storage.
+[2023-11-21 12:20:15] info: Uploaded Vellore.pdf to HinduTamilThisai in Azure Blob Storage.
+[2023-11-21 12:20:15] info: Output directory does not exist: D:\website_dev\Hindu_epaper\server\Hindu_Tamil\21-11-2023\Supplementary
+[2023-11-21 12:20:15] info: Output directory does not exist: D:\website_dev\Hindu_epaper\server\Hindu_Tamil\21-11-2023\Supplementary_1
+[2023-11-21 12:20:15] info: Output directory does not exist: D:\website_dev\Hindu_epaper\server\Hindu_Tamil\21-11-2023\HinduTamilThisai_1
+[2023-11-21 12:20:15] info: All PDFs uploaded to Azure Blob Storage.
+[2023-11-21 12:20:15] info: Uploaded File URL: https://stgtamilthisaicdn.blob.core.windows.net/httepaper/MultipleViewPdf/21-11-2023/HinduTamilThisai/Chennai.pdf
+[2023-11-21 12:20:15] info: Uploaded File URL: https://stgtamilthisaicdn.blob.core.windows.net/httepaper/MultipleViewPdf/21-11-2023/HinduTamilThisai/Dharmapuri.pdf
+[2023-11-21 12:20:15] info: Uploaded File URL: https://stgtamilthisaicdn.blob.core.windows.net/httepaper/MultipleViewPdf/21-11-2023/HinduTamilThisai/Kancheepuram.pdf
+[2023-11-21 12:20:15] info: Uploaded File URL: https://stgtamilthisaicdn.blob.core.windows.net/httepaper/MultipleViewPdf/21-11-2023/HinduTamilThisai/Madurai.pdf
+[2023-11-21 12:20:15] info: Uploaded File URL: https://stgtamilthisaicdn.blob.core.windows.net/httepaper/MultipleViewPdf/21-11-2023/HinduTamilThisai/Puducherry.pdf
+[2023-11-21 12:20:15] info: Uploaded File URL: https://stgtamilthisaicdn.blob.core.windows.net/httepaper/MultipleViewPdf/21-11-2023/HinduTamilThisai/Ramnad.pdf
+[2023-11-21 12:20:15] info: Uploaded File URL: https://stgtamilthisaicdn.blob.core.windows.net/httepaper/MultipleViewPdf/21-11-2023/HinduTamilThisai/Salem.pdf
+[2023-11-21 12:20:15] info: Uploaded File URL: https://stgtamilthisaicdn.blob.core.windows.net/httepaper/MultipleViewPdf/21-11-2023/HinduTamilThisai/Tanjavur.pdf
+[2023-11-21 12:20:15] info: Uploaded File URL: https://stgtamilthisaicdn.blob.core.windows.net/httepaper/MultipleViewPdf/21-11-2023/HinduTamilThisai/Thiruvananthapuram.pdf
+[2023-11-21 12:20:15] info: Uploaded File URL: https://stgtamilthisaicdn.blob.core.windows.net/httepaper/MultipleViewPdf/21-11-2023/HinduTamilThisai/Tiruchirapalli.pdf
+[2023-11-21 12:20:15] info: Uploaded File URL: https://stgtamilthisaicdn.blob.core.windows.net/httepaper/MultipleViewPdf/21-11-2023/HinduTamilThisai/Tirunelveli.pdf
+[2023-11-21 12:20:15] info: Uploaded File URL: https://stgtamilthisaicdn.blob.core.windows.net/httepaper/MultipleViewPdf/21-11-2023/HinduTamilThisai/Tirupur.pdf
+[2023-11-21 12:20:15] info: Uploaded File URL: https://stgtamilthisaicdn.blob.core.windows.net/httepaper/MultipleViewPdf/21-11-2023/HinduTamilThisai/Vellore.pdf

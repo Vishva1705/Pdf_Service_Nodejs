@@ -1,0 +1,77 @@
+[2023-10-13 10:48:31] info: Directory created: D:\website_dev\Hindu_epaper\server\Hindu_Tamil\13-10-2023\HinduTamilThisai
+[2023-10-13 10:48:31] info: PDF is greater than 97MB, compressing using ILovePDF: Chennai.pdf
+[2023-10-13 10:48:36] info: Task started in ILovePDF
+[2023-10-13 10:55:22] info: Task file added in ILovePDF
+[2023-10-13 10:56:35] info: file compressed
+[2023-10-13 10:56:35] info: compressed and saved as D:\website_dev\Hindu_epaper\server\Hindu_Tamil\13-10-2023\HinduTamilThisai/Chennai.pdf
+[2023-10-13 10:56:35] info: -----------------------------------------------------
+[2023-10-13 10:56:35] info: PDF is less than 97MB, compressing using Adobe: Coimbatore.pdf
+[2023-10-13 11:06:39] error: Exception encountered while compressing D:\Exact_files\2023\October\13-10-2023\TAMILTH\Combined/Coimbatore.pdf: request timed out, 600 seconds expired
+[2023-10-13 11:06:39] info: PDF is less than 97MB, compressing using Adobe: Dharmapuri.pdf
+[2023-10-13 11:16:44] error: Exception encountered while compressing D:\Exact_files\2023\October\13-10-2023\TAMILTH\Combined/Dharmapuri.pdf: request timed out, 600 seconds expired
+[2023-10-13 11:16:44] info: PDF is greater than 97MB, compressing using ILovePDF: Kancheepuram.pdf
+[2023-10-13 11:16:46] info: Task started in ILovePDF
+[2023-10-13 11:17:02] info: Task file added in ILovePDF
+[2023-10-13 11:20:24] info: file compressed
+[2023-10-13 11:20:29] info: compressed and saved as D:\website_dev\Hindu_epaper\server\Hindu_Tamil\13-10-2023\HinduTamilThisai/Kancheepuram.pdf
+[2023-10-13 11:20:29] info: -----------------------------------------------------
+[2023-10-13 11:20:29] info: PDF is less than 97MB, compressing using Adobe: Madurai.pdf
+[2023-10-13 11:22:13] info: Compressed PDF saved at: D:\website_dev\Hindu_epaper\server\Hindu_Tamil\13-10-2023\HinduTamilThisai/Madurai.pdf
+[2023-10-13 11:22:13] info: -----------------------------------------------------
+[2023-10-13 11:22:13] info: PDF is less than 97MB, compressing using Adobe: Puducherry.pdf
+[2023-10-13 11:23:57] info: Compressed PDF saved at: D:\website_dev\Hindu_epaper\server\Hindu_Tamil\13-10-2023\HinduTamilThisai/Puducherry.pdf
+[2023-10-13 11:23:57] info: -----------------------------------------------------
+[2023-10-13 11:23:57] info: PDF is less than 97MB, compressing using Adobe: Ramnad.pdf
+[2023-10-13 11:34:00] error: Exception encountered while compressing D:\Exact_files\2023\October\13-10-2023\TAMILTH\Combined/Ramnad.pdf: request timed out, 600 seconds expired
+[2023-10-13 11:34:00] info: PDF is less than 97MB, compressing using Adobe: Salem.pdf
+[2023-10-13 11:35:20] info: Compressed PDF saved at: D:\website_dev\Hindu_epaper\server\Hindu_Tamil\13-10-2023\HinduTamilThisai/Salem.pdf
+[2023-10-13 11:35:20] info: -----------------------------------------------------
+[2023-10-13 11:35:20] info: PDF is less than 97MB, compressing using Adobe: Tanjavur.pdf
+[2023-10-13 11:36:31] info: Compressed PDF saved at: D:\website_dev\Hindu_epaper\server\Hindu_Tamil\13-10-2023\HinduTamilThisai/Tanjavur.pdf
+[2023-10-13 11:36:31] info: -----------------------------------------------------
+[2023-10-13 11:36:31] info: PDF is less than 97MB, compressing using Adobe: Thiruvananthapuram.pdf
+[2023-10-13 11:37:43] info: Compressed PDF saved at: D:\website_dev\Hindu_epaper\server\Hindu_Tamil\13-10-2023\HinduTamilThisai/Thiruvananthapuram.pdf
+[2023-10-13 11:37:43] info: -----------------------------------------------------
+[2023-10-13 11:37:43] info: PDF is less than 97MB, compressing using Adobe: Tiruchirapalli.pdf
+[2023-10-13 11:38:56] info: Compressed PDF saved at: D:\website_dev\Hindu_epaper\server\Hindu_Tamil\13-10-2023\HinduTamilThisai/Tiruchirapalli.pdf
+[2023-10-13 11:38:56] info: -----------------------------------------------------
+[2023-10-13 11:38:56] info: PDF is less than 97MB, compressing using Adobe: Tirunelveli.pdf
+[2023-10-13 11:40:07] info: Compressed PDF saved at: D:\website_dev\Hindu_epaper\server\Hindu_Tamil\13-10-2023\HinduTamilThisai/Tirunelveli.pdf
+[2023-10-13 11:40:07] info: -----------------------------------------------------
+[2023-10-13 11:40:07] info: PDF is less than 97MB, compressing using Adobe: Tirupur.pdf
+[2023-10-13 11:41:31] info: Compressed PDF saved at: D:\website_dev\Hindu_epaper\server\Hindu_Tamil\13-10-2023\HinduTamilThisai/Tirupur.pdf
+[2023-10-13 11:41:31] info: -----------------------------------------------------
+[2023-10-13 11:41:31] info: PDF is less than 97MB, compressing using Adobe: Vellore.pdf
+[2023-10-13 11:42:40] info: Compressed PDF saved at: D:\website_dev\Hindu_epaper\server\Hindu_Tamil\13-10-2023\HinduTamilThisai/Vellore.pdf
+[2023-10-13 11:42:40] info: -----------------------------------------------------
+[2023-10-13 11:42:40] info: All files in D:\Exact_files\2023\October\13-10-2023\TAMILTH\Combined compressed and saved successfully to D:\website_dev\Hindu_epaper\server\Hindu_Tamil\13-10-2023\HinduTamilThisai
+[2023-10-13 11:42:40] info: Input directory does not exist: D:\Exact_files\2023\October\13-10-2023\TAMTHAF_Combined
+[2023-10-13 11:42:40] info: Input directory does not exist: D:\Exact_files\2023\October\13-10-2023\TAMTHEF_Combined
+[2023-10-13 11:42:40] info: Input directory does not exist: D:\Exact_files\2023\October\13-10-2023\TAMTHEdition_combined
+[2023-10-13 11:42:40] info: All folders processed successfully.
+[2023-10-13 11:42:53] info: Uploaded Chennai.pdf to HinduTamilThisai in Azure Blob Storage.
+[2023-10-13 11:43:01] info: Uploaded Kancheepuram.pdf to HinduTamilThisai in Azure Blob Storage.
+[2023-10-13 11:43:06] info: Uploaded Madurai.pdf to HinduTamilThisai in Azure Blob Storage.
+[2023-10-13 11:43:11] info: Uploaded Puducherry.pdf to HinduTamilThisai in Azure Blob Storage.
+[2023-10-13 11:43:15] info: Uploaded Salem.pdf to HinduTamilThisai in Azure Blob Storage.
+[2023-10-13 11:43:21] info: Uploaded Tanjavur.pdf to HinduTamilThisai in Azure Blob Storage.
+[2023-10-13 11:43:28] info: Uploaded Thiruvananthapuram.pdf to HinduTamilThisai in Azure Blob Storage.
+[2023-10-13 11:43:33] info: Uploaded Tiruchirapalli.pdf to HinduTamilThisai in Azure Blob Storage.
+[2023-10-13 11:43:37] info: Uploaded Tirunelveli.pdf to HinduTamilThisai in Azure Blob Storage.
+[2023-10-13 11:43:42] info: Uploaded Tirupur.pdf to HinduTamilThisai in Azure Blob Storage.
+[2023-10-13 11:43:47] info: Uploaded Vellore.pdf to HinduTamilThisai in Azure Blob Storage.
+[2023-10-13 11:43:47] info: Output directory does not exist: D:\website_dev\Hindu_epaper\server\Hindu_Tamil\13-10-2023\Supplementary
+[2023-10-13 11:43:47] info: Output directory does not exist: D:\website_dev\Hindu_epaper\server\Hindu_Tamil\13-10-2023\SupplementaryOne
+[2023-10-13 11:43:47] info: Output directory does not exist: D:\website_dev\Hindu_epaper\server\Hindu_Tamil\13-10-2023\NewEdition
+[2023-10-13 11:43:47] info: All PDFs uploaded to Azure Blob Storage.
+[2023-10-13 11:43:47] info: Uploaded File URL: https://stgvetrikkodi.blob.core.windows.net/vetrikkodi/HindutamilTesting/13-10-2023/HinduTamilThisai/Chennai.pdf
+[2023-10-13 11:43:47] info: Uploaded File URL: https://stgvetrikkodi.blob.core.windows.net/vetrikkodi/HindutamilTesting/13-10-2023/HinduTamilThisai/Kancheepuram.pdf
+[2023-10-13 11:43:47] info: Uploaded File URL: https://stgvetrikkodi.blob.core.windows.net/vetrikkodi/HindutamilTesting/13-10-2023/HinduTamilThisai/Madurai.pdf
+[2023-10-13 11:43:47] info: Uploaded File URL: https://stgvetrikkodi.blob.core.windows.net/vetrikkodi/HindutamilTesting/13-10-2023/HinduTamilThisai/Puducherry.pdf
+[2023-10-13 11:43:47] info: Uploaded File URL: https://stgvetrikkodi.blob.core.windows.net/vetrikkodi/HindutamilTesting/13-10-2023/HinduTamilThisai/Salem.pdf
+[2023-10-13 11:43:47] info: Uploaded File URL: https://stgvetrikkodi.blob.core.windows.net/vetrikkodi/HindutamilTesting/13-10-2023/HinduTamilThisai/Tanjavur.pdf
+[2023-10-13 11:43:47] info: Uploaded File URL: https://stgvetrikkodi.blob.core.windows.net/vetrikkodi/HindutamilTesting/13-10-2023/HinduTamilThisai/Thiruvananthapuram.pdf
+[2023-10-13 11:43:47] info: Uploaded File URL: https://stgvetrikkodi.blob.core.windows.net/vetrikkodi/HindutamilTesting/13-10-2023/HinduTamilThisai/Tiruchirapalli.pdf
+[2023-10-13 11:43:47] info: Uploaded File URL: https://stgvetrikkodi.blob.core.windows.net/vetrikkodi/HindutamilTesting/13-10-2023/HinduTamilThisai/Tirunelveli.pdf
+[2023-10-13 11:43:47] info: Uploaded File URL: https://stgvetrikkodi.blob.core.windows.net/vetrikkodi/HindutamilTesting/13-10-2023/HinduTamilThisai/Tirupur.pdf
+[2023-10-13 11:43:47] info: Uploaded File URL: https://stgvetrikkodi.blob.core.windows.net/vetrikkodi/HindutamilTesting/13-10-2023/HinduTamilThisai/Vellore.pdf

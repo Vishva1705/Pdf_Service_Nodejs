@@ -1,0 +1,32 @@
+[2023-11-02 13:04:59] info: Uploaded Chennai.pdf to HinduTamilThisai in Azure Blob Storage.
+[2023-11-02 13:05:01] info: Uploaded Coimbatore.pdf to HinduTamilThisai in Azure Blob Storage.
+[2023-11-02 13:05:05] info: Uploaded Dharmapuri.pdf to HinduTamilThisai in Azure Blob Storage.
+[2023-11-02 13:05:10] info: Uploaded Kancheepuram.pdf to HinduTamilThisai in Azure Blob Storage.
+[2023-11-02 13:05:15] info: Uploaded Madurai.pdf to HinduTamilThisai in Azure Blob Storage.
+[2023-11-02 13:05:25] info: Uploaded Puducherry.pdf to HinduTamilThisai in Azure Blob Storage.
+[2023-11-02 13:05:32] info: Uploaded Ramnad.pdf to HinduTamilThisai in Azure Blob Storage.
+[2023-11-02 13:05:38] info: Uploaded Salem.pdf to HinduTamilThisai in Azure Blob Storage.
+[2023-11-02 13:05:44] info: Uploaded Tanjavur.pdf to HinduTamilThisai in Azure Blob Storage.
+[2023-11-02 13:05:48] info: Uploaded Thiruvananthapuram.pdf to HinduTamilThisai in Azure Blob Storage.
+[2023-11-02 13:05:52] info: Uploaded Tiruchirapalli.pdf to HinduTamilThisai in Azure Blob Storage.
+[2023-11-02 13:05:57] info: Uploaded Tirunelveli.pdf to HinduTamilThisai in Azure Blob Storage.
+[2023-11-02 13:06:01] info: Uploaded Tirupur.pdf to HinduTamilThisai in Azure Blob Storage.
+[2023-11-02 13:06:05] info: Uploaded Vellore.pdf to HinduTamilThisai in Azure Blob Storage.
+[2023-11-02 13:06:05] info: Output directory does not exist: D:\website_dev\Hindu_epaper\server\Hindu_Tamil\02-11-2023\Supplementary
+[2023-11-02 13:06:05] info: Output directory does not exist: D:\website_dev\Hindu_epaper\server\Hindu_Tamil\02-11-2023\SupplementaryOne
+[2023-11-02 13:06:05] info: Output directory does not exist: D:\website_dev\Hindu_epaper\server\Hindu_Tamil\02-11-2023\NewEdition
+[2023-11-02 13:06:05] info: All PDFs uploaded to Azure Blob Storage.
+[2023-11-02 13:06:05] info: Uploaded File URL: https://stgvetrikkodi.blob.core.windows.net/vetrikkodi/HindutamilTesting/02-11-2023/HinduTamilThisai/Chennai.pdf
+[2023-11-02 13:06:05] info: Uploaded File URL: https://stgvetrikkodi.blob.core.windows.net/vetrikkodi/HindutamilTesting/02-11-2023/HinduTamilThisai/Coimbatore.pdf
+[2023-11-02 13:06:05] info: Uploaded File URL: https://stgvetrikkodi.blob.core.windows.net/vetrikkodi/HindutamilTesting/02-11-2023/HinduTamilThisai/Dharmapuri.pdf
+[2023-11-02 13:06:05] info: Uploaded File URL: https://stgvetrikkodi.blob.core.windows.net/vetrikkodi/HindutamilTesting/02-11-2023/HinduTamilThisai/Kancheepuram.pdf
+[2023-11-02 13:06:05] info: Uploaded File URL: https://stgvetrikkodi.blob.core.windows.net/vetrikkodi/HindutamilTesting/02-11-2023/HinduTamilThisai/Madurai.pdf
+[2023-11-02 13:06:05] info: Uploaded File URL: https://stgvetrikkodi.blob.core.windows.net/vetrikkodi/HindutamilTesting/02-11-2023/HinduTamilThisai/Puducherry.pdf
+[2023-11-02 13:06:05] info: Uploaded File URL: https://stgvetrikkodi.blob.core.windows.net/vetrikkodi/HindutamilTesting/02-11-2023/HinduTamilThisai/Ramnad.pdf
+[2023-11-02 13:06:05] info: Uploaded File URL: https://stgvetrikkodi.blob.core.windows.net/vetrikkodi/HindutamilTesting/02-11-2023/HinduTamilThisai/Salem.pdf
+[2023-11-02 13:06:05] info: Uploaded File URL: https://stgvetrikkodi.blob.core.windows.net/vetrikkodi/HindutamilTesting/02-11-2023/HinduTamilThisai/Tanjavur.pdf
+[2023-11-02 13:06:05] info: Uploaded File URL: https://stgvetrikkodi.blob.core.windows.net/vetrikkodi/HindutamilTesting/02-11-2023/HinduTamilThisai/Thiruvananthapuram.pdf
+[2023-11-02 13:06:05] info: Uploaded File URL: https://stgvetrikkodi.blob.core.windows.net/vetrikkodi/HindutamilTesting/02-11-2023/HinduTamilThisai/Tiruchirapalli.pdf
+[2023-11-02 13:06:05] info: Uploaded File URL: https://stgvetrikkodi.blob.core.windows.net/vetrikkodi/HindutamilTesting/02-11-2023/HinduTamilThisai/Tirunelveli.pdf
+[2023-11-02 13:06:05] info: Uploaded File URL: https://stgvetrikkodi.blob.core.windows.net/vetrikkodi/HindutamilTesting/02-11-2023/HinduTamilThisai/Tirupur.pdf
+[2023-11-02 13:06:05] info: Uploaded File URL: https://stgvetrikkodi.blob.core.windows.net/vetrikkodi/HindutamilTesting/02-11-2023/HinduTamilThisai/Vellore.pdf
